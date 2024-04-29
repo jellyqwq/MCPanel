@@ -1,0 +1,2 @@
+# MCPanel
+mc server watcher
